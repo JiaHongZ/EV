@@ -12,4 +12,4 @@ This project is built on [PyTorch Image Models (timm)](https://github.com/huggin
 
 ## Status
 
-Code for additional experiments is being organized and will be released separately. The associated manuscript is currently under revision at *Nature Communications*.
+Code for additional experiments is being organized and will be released separately. The associated manuscript, *Embodied Vision for Closed-loop Perception-Decision Making in Intelligent Agents*, is currently under revision at *Nature Communications*.
